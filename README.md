@@ -1,12 +1,11 @@
 # RESTAURANT RATING DATA ANALYSIS
-![](Restaurant pic.jpg)
 
 # INTRODUCTION
 In this data analysis report, I shall analyze some Mexican restaurants and their customers.
 Restaurant Rating dataset used for this analysis contain the data of real consumers from 2012. 
 I have used Microsoft Power BI to analyze this dataset.
 
-# Skill/ Concept Demonstrated
+# Skill/Concept Demonstrated ![](Restaurant pic.jpg)
 The following PowerBi features were incorporated
 -Data Analysis Expression 
 -Quick Measure
