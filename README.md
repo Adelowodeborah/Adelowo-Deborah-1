@@ -44,9 +44,9 @@ but there are not enough restaurants to cater their demand.
 # Recommendations
 To invest in a restaurant business, the following things will be considered to make more profit 😄
 
-More restaurants shall be opened in San Luis Potosi.
+More restaurants shall be opened in San Luis Potosi because it has the highest consumer by state.
 
-My restaurant should be opened in a location that is easily accessible by public transport and cars.
+My restaurant should be opened in a location that is easily accessible by public transport.
 
 The restaurant shall be priortized for the unmarried people.
 
