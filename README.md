@@ -1,5 +1,6 @@
 # RESTAURANT RATING DATA ANALYSIS
-![](Restaurant_pic.jpg)
+![](Restaurantpic.jpg)
+
 # INTRODUCTION
 In this data analysis report, I shall analyze some Mexican restaurants and their customers.
 Restaurant Rating dataset used for this analysis contain the data of real consumers from 2012. 
