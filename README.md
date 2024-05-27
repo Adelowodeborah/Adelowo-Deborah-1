@@ -1,5 +1,5 @@
 # RESTAURANT RATING DATA ANALYSIS
-![](Restaurantpic.jpg)
+![](Restaurant pic.jpg)
 
 # INTRODUCTION
 In this data analysis report, I shall analyze some Mexican restaurants and their customers.
